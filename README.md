@@ -4,7 +4,7 @@
 
 ## Sobre o Projeto
 
-Projeto de elaboração API Rest feito em Java para uma aplicação de entregas de pedidos, que foi realizado durante a semana de 17/05/2021 a 23/05/2021 da <a href="https://www.algaworks.com/">AlgaWorks</a>.
+Projeto de elaboração Rest API feito em Java para uma aplicação de entregas de pedidos, que foi realizado durante a semana de 17/05/2021 a 23/05/2021 da <a href="https://www.algaworks.com/">AlgaWorks</a>.
 
 ## Pré-requisitos
 
