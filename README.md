@@ -22,7 +22,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 
 Veja a documentação da API no Postman:
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/ca686c58fcdf96d4c517)
+[![](https://img.shields.io/badge/-Documenta%C3%A7%C3%A3o%20da%20API-orange)](https://documenter.getpostman.com/view/450849/TzXukJkX)
 
 ## Tecnologias
 
